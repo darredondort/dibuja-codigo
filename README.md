@@ -17,7 +17,7 @@ Crea tu primer programa de dibujo con código utilizando las funciones y variabl
 ![](https://media.giphy.com/media/cm05AHjWmKReWLaQMb/giphy.gif)
 
 ### 1. Variables y operadores
-Aprende a utilizar variables para alojar valores en ellos y transformarlos dinámicamente con operadores aritméticos (+, -, *, /) y de asignación (=, +=, -=, ++, --) para animar figuras y textos en el canvas. 
+Aprende a utilizar variables para alojar valores en ellos y transformarlos dinámicamente con operadores aritméticos (+, -, *, /) y de asignación (=, +=, -=, ++, --) para modificar figuras y textos en el canvas dinámicamente. 
 
 - **1-1A_dibuja-codigo_variables-operadores**
 - **1-1B_dibuja-codigo_operadores-anim**
