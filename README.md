@@ -31,3 +31,35 @@ Aprende a agregar decisiones lógicas y repeticiones a las instrucciones que seg
 - **1-2E_dibuja-codigo_estructura-control-forloop-array-abstract**
 - **1-2D_dibuja-codigo_estructura-control-forloop-array-aula**
 
+
+___ 
+
+## Instalación:
+Para correr todos los ejercicios localmente, se requiere habilitar un servidor local.
+
+Se sugiere instalar la versión de [Node.js](https://nodejs.org/en/download/) para tu sistema operativo y el paquete de npm [http-server](https://www.npmjs.com/package/http-server) para correr un servidor local desde la terminal/línea de comandos.
+
+```
+npm i http-server
+````
+___
+
+## Uso
+
+Clonar o descargar repositorio.
+```
+git clone https://github.com/tugaarredondo/dibuja-codigo.git
+```
+
+Cambiar directorio a carpeta de *dibuja-codigo*.
+
+```
+cd dibuja-codigo
+```
+
+Correr servidor local (puerto 8000 por default).
+```
+http-server
+```
+
+____
