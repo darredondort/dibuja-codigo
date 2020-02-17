@@ -12,17 +12,16 @@ ___
 ### 0. Hola Canvas
 Crea tu primer programa de dibujo con código utilizando las funciones y variables de p5.js para dibujar en el canvas de tu navegador.
 - **dibuja-codigo_0-0a_hola-canvas** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/OBzRNYFyg) ]
-![](https://media.giphy.com/media/cm05AHjWmKReWLaQMb/giphy.gif)
-
+<img src="https://media.giphy.com/media/cm05AHjWmKReWLaQMb/giphy.gif" height="300">
 
 ### 1. Variables y operadores
 Aprende a utilizar variables para alojar valores en ellos y transformarlos dinámicamente con operadores aritméticos (+, -, *, /) y de asignación (=, +=, -=, ++, --) para modificar figuras y textos en el canvas dinámicamente. 
 
 - **dibuja-codigo_1-1_variables-operadores** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/e_zZqoeLI) ]
-![](https://media.giphy.com/media/TK4ftDQUpNuZxr1wGt/giphy.gif)
+<img src="https://media.giphy.com/media/TK4ftDQUpNuZxr1wGt/giphy.gif" height="300">
 
 - **dibuja-codigo_1-2_operadores-anim** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/QdAB6x_1jj) ]
-![](https://media.giphy.com/media/JmgOodqh5Au4a4FxaS/giphy.gif)
+<img src="https://media.giphy.com/media/JmgOodqh5Au4a4FxaS/giphy.gif" height="300">
 
 
 ### 2. Estructuras de control - Condicionales/Selectivas
