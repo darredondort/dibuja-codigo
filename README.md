@@ -96,24 +96,25 @@ ___
 
 ## Uso
 
-Clonar o descargar repositorio.
+Clona o descarga repositorio.
 ```
 git clone https://github.com/tugaarredondo/dibuja-codigo.git
 ```
 
-Cambiar directorio a carpeta de *dibuja-codigo*.
+Cambia de directorio a la carpeta de *dibuja-codigo*.
 
 ```
 cd dibuja-codigo
 ```
 
-Correr servidor local (puerto 8000 por default).
+Corre un servidor local
 ```
-http-server
+http-server -p 8000
 ```
 
+Explora los ejemplos en tu navegador: http://localhost:8000/
 ____
 
 ## Licencia
 
-[MIT © Richard McRichface.](../LICENSE)
+[MIT © Diego Arredondo](../LICENSE)
