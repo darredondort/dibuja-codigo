@@ -14,6 +14,7 @@ Crea tu primer programa de dibujo con código utilizando las funciones y variabl
 - **dibuja-codigo_0-0a_hola-canvas** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/OBzRNYFyg) ]
 ![](https://media.giphy.com/media/cm05AHjWmKReWLaQMb/giphy.gif)
 
+
 ### 1. Variables y operadores
 Aprende a utilizar variables para alojar valores en ellos y transformarlos dinámicamente con operadores aritméticos (+, -, *, /) y de asignación (=, +=, -=, ++, --) para modificar figuras y textos en el canvas dinámicamente. 
 
@@ -24,39 +25,34 @@ Aprende a utilizar variables para alojar valores en ellos y transformarlos diná
 ![](https://media.giphy.com/media/JmgOodqh5Au4a4FxaS/giphy.gif)
 
 
-### 2. Estructuras de control - Condicionales e iterativas
+### 2. Estructuras de control - Condicionales/Selectivas
 Aprende a integrar decisiones lógicas y repeticiones a las instrucciones que seguirá tu programa con las estructuras de control básicas en JavaScript.
 - **dibuja-codigo_2-1_estructura-control-ifelse** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/xb-vIMLR) ]
 - **dibuja-codigo_2-2_estructura-control-switch** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/dv1HXGCQ) ]
 
 
-
+### 3. Estructuras de control - Iterativas
 - **dibuja-codigo_3-1_estructura-control-forloop-array** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/Pbjx3WVl) ]
 - **dibuja-codigo_3-2a_estructura-control-nested-forloop** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/7_5maDD9) ]
 - **dibuja-codigo_3-2b_estructura-control-nested-forloop-exp1-aula** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/4smm3NMG) ]
 - **dibuja-codigo_3-2c_estructura-control-nested-forloop-exp2** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/NCXg_q_L) ]
-
-
 - **dibuja-codigo_3-3a_estructura-control-forloop-array-map** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/2udcp_EIU) ]
 - **dibuja-codigo_3-3b_estructura-control-forloop-array-exp** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/_rkHb19D) ]
 - **dibuja-codigo_3-4_estructura-control-switch-forloop-obj** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/DUOBEUnZ) ]
 
 
-### 3. Funciones
+### 4. Funciones
 Aprende a programar tus propias funciones, que te ayudarán a organizar tu código de una manera más eficiente, modular y reutilizable.
 
 - **dibuja-codigo_4-1_funciones** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/eb3u99XqZ) ]
 - **dibuja-codigo_4-2_funciones-arrays** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/6ZsYRDbc) ]
 
 
-
-### . Programación orientada a objetos (OOP)
+### 5. Programación orientada a objetos (OOP)
 Aprende a encapsular las propiedades y funcionalidades de las piezas en tu código dentro de objetos, utilizando las posibilidades de programación orientada a objetos desde JavaScript ES6. Define “plantillas” de objetos utilizando la palabra clave *class*, introducida en ES6 ([¡no existen realmente las clases en JavaScript!](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch4.md)), y delega de ellas nuevos objetos que harán referencia al prototipo creado desde su función constructora.
 - **dibuja-codigo_5-1a_oop-objetos-clases** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/oNDsEpfj) ]
 - **dibuja-codigo_5-1b_oop_objetos-clases-exp** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/JswtVPh1) ]
 - **dibuja-codigo_5-2_oop-objetos-arrays** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/VGgIzyOh) ]
-
-
 
 
 ___ 
