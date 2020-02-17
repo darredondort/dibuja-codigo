@@ -1,7 +1,7 @@
 # dibuja-codigo
 Aprende a programar dibujando con p5.js
 
-Ejercicios introductorios para aprender los conceptos fundamentales de la programación en JavaScript con la librería p5.js.
+Ejercicios introductorios para aprender los conceptos fundamentales de la programación en JavaScript con la librería [p5.js](https://p5js.org/).
 
 Inspirados en ejercicios por [@shiffman](https://github.com/CodingTrain/website) en [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA).
 
@@ -41,9 +41,6 @@ Aprende a integrar decisiones lógicas y repeticiones a las instrucciones que se
 
 ### 3. Estructuras de control - Iterativas
 - **dibuja-codigo_3-1_estructura-control-forloop-array** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/Pbjx3WVl) ]
-
-<img src="https://media.giphy.com/media/UokPMk0N1gPApyYWKJ/giphy.gif" height="300">
-
 - **dibuja-codigo_3-2a_estructura-control-nested-forloop** [ código ] [ [p5.js editor](https://editor.p5js.org/tugaarredondo/sketches/7_5maDD9) ]
 
 <img src="https://media.giphy.com/media/lPv1Np7KsYMlyA1Wdi/giphy.gif" height="300">
@@ -90,7 +87,7 @@ ___
 ## Instalación:
 Para correr todos los ejercicios localmente, se requiere habilitar un servidor local.
 
-Se sugiere instalar la versión de [Node.js](https://nodejs.org/en/download/) para tu sistema operativo y el paquete de npm [http-server](https://www.npmjs.com/package/http-server) para correr un servidor local desde la terminal/línea de comandos.
+Instala la versión de [Node.js](https://nodejs.org/en/download/) para tu sistema operativo y el paquete de npm [http-server](https://www.npmjs.com/package/http-server) para correr un servidor local desde la terminal/línea de comandos.
 
 ```
 npm i http-server
