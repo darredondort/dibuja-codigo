@@ -113,3 +113,7 @@ http-server
 ```
 
 ____
+
+## Licencia
+
+[MIT © Richard McRichface.](../LICENSE)
