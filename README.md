@@ -16,7 +16,7 @@ ___
 <img src="https://media.giphy.com/media/cm05AHjWmKReWLaQMb/giphy.gif" height="300">
 
 ### 1. Variables y operadores
-*El cambio es la única constante (excepto para ti, const).* Aprende a utilizar variables para almacenar valores y transformarlos con operadores aritméticos (+, -, *, /) y de asignación (=, +=, -=, ++, --) que te permitirán animar figuras y texto en el Canvas. 
+*El cambio es la única constante (excepto para ti, `const`).* Aprende a utilizar variables para almacenar valores y transformarlos con operadores aritméticos (+, -, *, /) y de asignación (=, +=, -=, ++, --) que te permitirán animar figuras y texto en el Canvas. 
 
 - **dibuja-codigo_1-1_variables-operadores** [ código ] [ [p5.js editor](https://editor.p5js.org/darredondort/sketches/e_zZqoeLI) ]
 
@@ -40,7 +40,7 @@ ___
 
 
 ### 3. Estructuras de control - Iterativas
-*Repetir sin repetirte* Aprende a integrar ciclos en tu código para escalar las posibilidades de tus programas y hacerlos más eficientes.
+*Repetir sin repetirte.* Aprende a integrar ciclos en tu código para escalar las posibilidades de tus programas y hacerlos más eficientes.
 - **dibuja-codigo_3-1_estructura-control-forloop-array** [ código ] [ [p5.js editor](https://editor.p5js.org/darredondort/sketches/Pbjx3WVl) ]
 - **dibuja-codigo_3-2a_estructura-control-nested-forloop** [ código ] [ [p5.js editor](https://editor.p5js.org/darredondort/sketches/7_5maDD9) ]
 
@@ -59,7 +59,7 @@ ___
 
 
 ### 4. Funciones
-*Máquina, haz lo tuyo* Aprende a programar tus propias funciones, que te ayudarán a organizar tu código de una manera más eficiente, modular y reutilizable.
+*Máquina, haz lo tuyo.* Aprende a programar tus propias funciones, que te ayudarán a organizar tu código de una manera más eficiente, modular y reutilizable.
 
 - **dibuja-codigo_4-1_funciones** [ código ] [ [p5.js editor](https://editor.p5js.org/darredondort/sketches/eb3u99XqZ) ]
 
@@ -72,7 +72,7 @@ ___
 
 
 ### 5. Programación orientada a objetos (OOP)
-*Más vale objeto por conocido...* Aprende a encapsular las propiedades y funcionalidades de las piezas en tu código dentro de objetos, utilizando las posibilidades de programación orientada a objetos desde JavaScript ES6. Define “plantillas” de objetos utilizando la palabra clave *class*, introducida en ES6 ([¡alerta! "clases" son azúcar sintáctica en JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch4.md)), y delega de ellas nuevos objetos que desde su función constructora.
+*Más vale objeto por conocido...* Aprende a encapsular las propiedades y funcionalidades de las piezas en tu código dentro de objetos, utilizando las posibilidades de programación orientada a objetos desde JavaScript ES6. Define “plantillas” de objetos utilizando la palabra clave *class*, introducida en ES6 ([¡alerta! "clases" son azúcar sintáctica en JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch4.md)), y delega de ellas nuevos objetos utilizando su función constructora.
 - **dibuja-codigo_5-1a_oop-objetos-clases** [ código ] [ [p5.js editor](https://editor.p5js.org/darredondort/sketches/oNDsEpfj) ]
 
 <img src="https://media.giphy.com/media/jqZ0DhPrpE68IIM6u2/giphy.gif" height="300">
@@ -99,7 +99,7 @@ ___
 
 Clona o descarga repositorio.
 ```
-git clone https://github.com/tugaarredondo/dibuja-codigo.git
+git clone https://github.com/darredondort/dibuja-codigo.git
 ```
 
 Cambia de directorio a la carpeta de *dibuja-codigo*.
